@@ -1,0 +1,2 @@
+cd .. --> Retroceder directorio
+cd --> cambiar directorio
