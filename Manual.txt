@@ -1,2 +1,3 @@
 cd .. --> Retroceder directorio
 cd --> cambiar directorio
+Dir --> Mostrar directorio
